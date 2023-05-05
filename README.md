@@ -1,2 +1,2 @@
 # Expense-Tracker
-a website for tracking your expenses
+a Tkinter GUI project for tracking your expenses
